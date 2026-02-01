@@ -61,5 +61,5 @@ https://www.swi-prolog.org
 ### 3️⃣ Run in SWI-Prolog 
 
 ---Load the file by ?- [travel].
----Then you can find routes by ?- find_best_route(kandy, digana).
+---Then you can find routes by ?- find_best_route(kandy, digana). <---- Just an example.
 
